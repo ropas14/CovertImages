@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>chicken_broth</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Standard-Bowel-Prep" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iOS_3days" transform="translate(-159.000000, -841.000000)">
+            <g id="Group-2" transform="translate(3.000000, 615.000000)">
+                <g id="stop_7days-copy" transform="translate(43.000000, 160.000000)">
+                    <g id="chicken_broth" transform="translate(113.000000, 66.000000)">
+                        <ellipse id="Oval-4-Copy-3" fill="#4ECDC4" cx="47.7453581" cy="48" rx="47.7453581" ry="48"></ellipse>
+                        <g id="Group-22" transform="translate(12.000000, 28.000000)">
+                            <path d="M0.420208063,11.9720373 C4.21779498,23.8324374 10.9060104,32.2564103 20.4848544,37.2439561 C30.0636983,42.2315018 40.6036651,42.2315018 52.1047546,37.2439561 C62.9105369,31.6803146 69.163286,23.2563417 70.863002,11.9720373 C71.0505875,10.7266695 71.5082253,8.67720871 69.9902014,7.69889845 C62.6624327,2.97642262 35.4843893,2.59863544 2.34745267,7.69889845 C0.120360186,8.04168081 -0.522054682,9.46606042 0.420208063,11.9720373 Z" id="Path-14" fill="#FFFFFF"></path>
+                            <ellipse id="Oval-10" fill="#FFE66D" cx="35.4461538" cy="9.216" rx="35.4461538" ry="9.216"></ellipse>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

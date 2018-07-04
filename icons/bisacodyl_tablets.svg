@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="199px" height="200px" viewBox="0 0 199 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>bisacodyl_tablets</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="12.8342246" cy="12.8342246" r="12.8342246"></circle>
+        <filter x="-25.3%" y="-25.3%" width="150.6%" height="150.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="3" dy="2" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.458823529   0 0 0 0 0.458823529   0 0 0 0 0.458823529  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <circle id="path-3" cx="43.6363636" cy="12.8342246" r="12.8342246"></circle>
+        <filter x="-25.3%" y="-25.3%" width="150.6%" height="150.6%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="3" dy="2" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.458823529   0 0 0 0 0.458823529   0 0 0 0 0.458823529  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Standard-Bowel-Prep" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iOS_1day" transform="translate(-107.000000, -1006.000000)">
+            <g id="Group-2" transform="translate(4.000000, 556.000000)">
+                <g id="stop_7days-copy" transform="translate(42.000000, 72.000000)">
+                    <g id="bisacodyl_tablets" transform="translate(61.000000, 378.000000)">
+                        <g id="juice">
+                            <ellipse id="Oval-4-Copy-5" fill="#4ECDC4" cx="99.469496" cy="100" rx="99.469496" ry="100"></ellipse>
+                            <g id="Group-3" transform="translate(39.000000, 45.000000)">
+                                <g id="Group-50">
+                                    <g id="Group-25" transform="translate(0.000000, 0.760649)">
+                                        <g id="Group-23" transform="translate(0.000000, 5.974553)" fill="#E7F3F7">
+                                            <path d="M0.107410461,0.977057282 L7.10331792,99.6914398 C22.2109686,102.769227 37.2337805,102.769227 52.1717537,99.6914398" id="Path-13"></path>
+                                            <path d="M7.96607044,0.766237622 L14.6096266,99.6914398 C29.7172773,102.769227 44.7400892,102.769227 59.6780623,99.6914398" id="Path-13-Copy" transform="translate(33.822066, 51.383009) scale(-1, 1) translate(-33.822066, -51.383009) "></path>
+                                            <polygon id="Rectangle-6" points="2.10715492 3.98303522 55.7624931 3.98303522 50.2854448 57.6552572 7.50825101 57.6552572"></polygon>
+                                        </g>
+                                        <path d="M0.590683193,7.53878648 L59.105863,7.96607044 L55.5871277,15.56264 L2.87712151,13.9406233 C2.30443348,12.4299749 1.83897912,11.2469985 1.48075844,10.391694 C1.12253776,9.53638963 0.825846011,8.58542044 0.590683193,7.53878648 Z" id="Rectangle-7" fill="#E7F3F7"></path>
+                                        <ellipse id="Oval-11" stroke="#F1EEE7" fill="#E7F3F7" cx="29.8727642" cy="6.97031164" rx="29.8727642" ry="6.97031164"></ellipse>
+                                        <g id="Group-24" transform="translate(5.974553, 17.923658)">
+                                            <g id="Group-23-Copy" transform="translate(0.000000, 5.974553)" fill="#8BC4D7">
+                                                <path d="M0,0 L5.69415472,79.8043641 C17.8047348,82.2681747 29.8473065,82.2681747 41.8218698,79.8043641" id="Path-13"></path>
+                                                <path d="M5.97455283,0 L11.6687075,79.8043641 C23.7792876,82.2681747 35.8218593,82.2681747 47.7964226,79.8043641" id="Path-13-Copy" transform="translate(26.885488, 40.826111) scale(-1, 1) translate(-26.885488, -40.826111) "></path>
+                                                <polygon id="Rectangle-6" points="1.99151761 3.98303522 45.804905 3.98303522 41.3325068 51.7794579 6.40189547 51.7794579"></polygon>
+                                            </g>
+                                            <ellipse id="Oval-11-Copy" fill="#A0CEDE" cx="23.8982113" cy="6.97031164" rx="23.8982113" ry="6.97031164"></ellipse>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g id="Group" transform="translate(66.529412, 42.352941)">
+                                    <g id="Oval-20">
+                                        <use fill="#F49F0A" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                    </g>
+                                    <g id="Oval-20-Copy">
+                                        <use fill="#F49F0A" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
