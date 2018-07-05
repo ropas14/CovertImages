@@ -3,11 +3,7 @@
     height: 100%;
 }
 /* resize images */
- img.stop{
-    width: : 80%;
-    height: : auto;
-}
-
+ 
 #header{
  background-color: #bf0e0e;
  color: white;
@@ -19,6 +15,8 @@
  p{
   font-size: 20px;
  }
+
+ 
 
 
 
